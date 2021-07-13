@@ -1,0 +1,16 @@
+/media/dante/Data/programming/SortingAlgoritmes/C#/CSharpSort/CSharpSort/bin/Debug/net5.0/CSharpSort
+/media/dante/Data/programming/SortingAlgoritmes/C#/CSharpSort/CSharpSort/bin/Debug/net5.0/CSharpSort.deps.json
+/media/dante/Data/programming/SortingAlgoritmes/C#/CSharpSort/CSharpSort/bin/Debug/net5.0/CSharpSort.runtimeconfig.json
+/media/dante/Data/programming/SortingAlgoritmes/C#/CSharpSort/CSharpSort/bin/Debug/net5.0/CSharpSort.runtimeconfig.dev.json
+/media/dante/Data/programming/SortingAlgoritmes/C#/CSharpSort/CSharpSort/bin/Debug/net5.0/CSharpSort.dll
+/media/dante/Data/programming/SortingAlgoritmes/C#/CSharpSort/CSharpSort/bin/Debug/net5.0/ref/CSharpSort.dll
+/media/dante/Data/programming/SortingAlgoritmes/C#/CSharpSort/CSharpSort/bin/Debug/net5.0/CSharpSort.pdb
+/media/dante/Data/programming/SortingAlgoritmes/C#/CSharpSort/CSharpSort/obj/Debug/net5.0/CSharpSort.csproj.AssemblyReference.cache
+/media/dante/Data/programming/SortingAlgoritmes/C#/CSharpSort/CSharpSort/obj/Debug/net5.0/CSharpSort.GeneratedMSBuildEditorConfig.editorconfig
+/media/dante/Data/programming/SortingAlgoritmes/C#/CSharpSort/CSharpSort/obj/Debug/net5.0/CSharpSort.AssemblyInfoInputs.cache
+/media/dante/Data/programming/SortingAlgoritmes/C#/CSharpSort/CSharpSort/obj/Debug/net5.0/CSharpSort.AssemblyInfo.cs
+/media/dante/Data/programming/SortingAlgoritmes/C#/CSharpSort/CSharpSort/obj/Debug/net5.0/CSharpSort.csproj.CoreCompileInputs.cache
+/media/dante/Data/programming/SortingAlgoritmes/C#/CSharpSort/CSharpSort/obj/Debug/net5.0/CSharpSort.dll
+/media/dante/Data/programming/SortingAlgoritmes/C#/CSharpSort/CSharpSort/obj/Debug/net5.0/ref/CSharpSort.dll
+/media/dante/Data/programming/SortingAlgoritmes/C#/CSharpSort/CSharpSort/obj/Debug/net5.0/CSharpSort.pdb
+/media/dante/Data/programming/SortingAlgoritmes/C#/CSharpSort/CSharpSort/obj/Debug/net5.0/CSharpSort.genruntimeconfig.cache

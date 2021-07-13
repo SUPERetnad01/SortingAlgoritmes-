@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "SortingAlgoritmes", "SortingAlgoritmes\SortingAlgoritmes.fsproj", "{E9BDF9B5-56D7-4EC0-BDDF-D142A5A8ED50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9BDF9B5-56D7-4EC0-BDDF-D142A5A8ED50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9BDF9B5-56D7-4EC0-BDDF-D142A5A8ED50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9BDF9B5-56D7-4EC0-BDDF-D142A5A8ED50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9BDF9B5-56D7-4EC0-BDDF-D142A5A8ED50}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

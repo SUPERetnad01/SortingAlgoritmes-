@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KgggF9QwMSiY41W5p+XRAWr12JjIcz8yUH5Q2BqJDeQsMsb8XD79FU+fy8HA9UlwYqnb3Vrld96ydTmLmD/dpw==",
+  "success": true,
+  "projectFilePath": "/media/dante/Data/programming/SortingAlgoritmes/F#/SortingAlgoritmes/SortingAlgoritmes.fsproj",
+  "expectedPackageFiles": [
+    "/home/dante/.nuget/packages/fsharp.core/5.0.0/fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
